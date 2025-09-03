@@ -1,1 +1,12 @@
 venv/
+
+# Large data files
+train.csv
+
+# Model files
+*.pkl
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
